@@ -1,16 +1,17 @@
-## Hi there 👋
+# Leonardo Bezerra da Silva 🚀
 
-<!--
-**H4ttiz/H4ttiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou Leonardo Bezerra da Silva, um Software Engineer apaixonado por tecnologia e soluções inovadoras. Estou me especializando em **backend** e atualmente focado em aprimorar minhas habilidades em **Java**, **Python** e **SQL**.
 
-Here are some ideas to get you started:
+🎓 **Formação Acadêmica:**  
+Estudante do 2º ano de **Engenharia de Software** na **Unicesumar**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tecnologias que estou aprendendo e utilizando:**  
+- **Linguagens:** Java, Python, SQL  
+- **Áreas de Interesse:** Desenvolvimento Backend, Arquitetura de Software, Bancos de Dados  
+
+🎯 **Objetivo:**  
+Meu foco é construir aplicações eficientes, escaláveis e seguras, enquanto aprendo continuamente e contribuo para a comunidade tech.
+
+🌟 Sempre buscando novos desafios e oportunidades para aprender e crescer!
+
+
