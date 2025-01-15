@@ -6,7 +6,7 @@
 Estudante do 2º ano de **Engenharia de Software** na **Unicesumar**.
 
 💻 **Tecnologias que estou aprendendo e utilizando:**  
-- **Linguagens:** Java, Python, SQL  
+- **Linguagens:** Java, Python, SQL, C 
 - **Áreas de Interesse:** Desenvolvimento Backend, Arquitetura de Software, Bancos de Dados  
 
 🎯 **Objetivo:**  
