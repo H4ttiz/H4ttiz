@@ -5,10 +5,6 @@
 🎓 **Formação Acadêmica:**  
 Estudante do 2º ano de **Engenharia de Software** na **Unicesumar**.
 
-💻 **Tecnologias que estou aprendendo e utilizando:**  
-- **Linguagens:** Java, Python, SQL  
-- **Áreas de Interesse:** Desenvolvimento Backend, Arquitetura de Software, Bancos de Dados  
-
 🎯 **Objetivo:**  
 Meu foco é construir aplicações eficientes, escaláveis e seguras, enquanto aprendo continuamente e contribuo para a comunidade tech.
 
