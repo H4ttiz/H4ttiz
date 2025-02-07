@@ -1,21 +1,122 @@
-# Leonardo Bezerra da Silva 🚀
+# 👨‍💻 Leonardo Bezerra da Silva 
+**`Backend Developer | Data-Driven Solutions`**
 
-👋 Olá! Sou Leonardo Bezerra da Silva, um Software Engineer apaixonado por tecnologia e soluções inovadoras. Estou me especializando em **backend** e atualmente focado em aprimorar minhas habilidades em **Java**, **Python** e **SQL**.
+Olá! Sou estudante de Engenharia de Software na UniCesumara apaixonado por tecnologia e soluções inovadoras. Estou me especializando em desenvolvimento backend e atualmente focando em aprimorar minhas habilidades em Java, Python, SQL, MySQL, MongoDB, Java Spring, PostgreSQL, AWS, Docker e Kubernetes.
 
-🎓 **Formação Acadêmica:**  
-Estudante do 2º ano de **Engenharia de Software** na **Unicesumar**.
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocbizerra@gmail.com)
+[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bezerra-da-silva-2507a92bb/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leozinn.bs__/)
+---
 
-💻 **Tecnologias que estou aprendendo e utilizando:**  
-- **Linguagens:** Java, Python, SQL, C 
-- **Áreas de Interesse:** Desenvolvimento Backend, Arquitetura de Software, Bancos de Dados  
+### 🤖 Linguagens e Tecnologias
 
-🎯 **Objetivo:**  
-Meu foco é construir aplicações eficientes, escaláveis e seguras, enquanto aprendo continuamente e contribuo para a comunidade tech.
+<img 
+    text-align: left
+    alt="JAVA"
+    title="JAVA"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img
+    text-align: left 
+    alt="Python"
+    title="Python"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    text-align: left 
+    alt="C"
+    title="C"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    text-align: left 
+    alt="Spring"
+    title="Spring"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    text-align: left 
+    alt="MySQL"
+    title="MySQL"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    text-align: left 
+    alt="mongodb"
+    title="mongodb"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+/>
+<img 
+    text-align: left
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="40px"
+    style="padding-right:10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    text-align: left
+    alt="AWS"
+    title="AWS"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    text-align: left 
+    alt="Docker"
+    title="Docker"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    text-align: left
+    alt="Kubernetes"
+    title="Kubernetes"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>
+<img 
+    text-align: left
+    alt="Kubernetes"
+    title="Kubernetes"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
 
-📫 **Entre em contato comigo:**  
-- **Email:** [leonardocbizerra@gmail.com](mailto:leonardocbizerra@gmail.com)  
-- **LinkedIn:** [Leonardo Bezerra da Silva](https://www.linkedin.com/in/leonardo-bezerra-da-silva-2507a92bb/)  
-- **GitHub:** Você já está aqui! 😄  
+### 🤖 Estatísticas
 
-🌟 Sempre buscando novos desafios e oportunidades para aprender e crescer!
+<p>
+    <img 
+        text-align: left
+        alt="GitHub Stats"
+        height="200px"
+        style="padding-right:10px;"
+        src="https://github-readme-stats.vercel.app/api?username=H4ttiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        text-align: left
+        alt="GitHub Stats"
+        height="200px"
+        style="padding-right:10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ttiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </p>
 
