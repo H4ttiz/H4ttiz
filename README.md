@@ -107,14 +107,14 @@ Olá! Sou estudante de Engenharia de Software na UniCesumara apaixonado por tecn
     <img 
         text-align: left
         alt="GitHub Stats"
-        height="100px"
+        height="150px"
         style="padding-right:10px;"
         src="https://github-readme-stats.vercel.app/api?username=H4ttiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
     <img 
         text-align: left
         alt="GitHub Stats"
-        height="100px"
+        height="150px"
         style="padding-right:10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ttiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
