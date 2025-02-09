@@ -1,7 +1,7 @@
 # 👨‍💻 Leonardo Bezerra da Silva 
 **`Backend Developer | Data-Driven Solutions`**
 
-Olá! Sou estudante de Engenharia de Software na UniCesumara apaixonado por tecnologia e soluções inovadoras. Estou me especializando em desenvolvimento backend e atualmente focando em aprimorar minhas habilidades em Java, Python, SQL, MySQL, MongoDB, Java Spring, PostgreSQL, AWS, Docker e Kubernetes.
+Olá! Sou estudante de Engenharia de Software na UniCesumar apaixonado por tecnologia e soluções inovadoras. Estou me especializando em desenvolvimento backend e atualmente focando em aprimorar minhas habilidades em Java, Python, SQL, MySQL, MongoDB, Java Spring, PostgreSQL, AWS, Docker e Kubernetes.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocbizerra@gmail.com)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bezerra-da-silva-2507a92bb/)
