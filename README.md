@@ -34,7 +34,6 @@ Olá! Sou estudante de Engenharia de Software na UniCesumar apaixonado por tecno
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-
 <img 
     text-align: left 
     alt="MySQL"
