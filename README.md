@@ -34,14 +34,7 @@ Olá! Sou estudante de Engenharia de Software na UniCesumar apaixonado por tecno
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-<img 
-    text-align: left 
-    alt="Spring"
-    title="Spring"
-    width="40px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+
 <img 
     text-align: left 
     alt="MySQL"
@@ -51,49 +44,9 @@ Olá! Sou estudante de Engenharia de Software na UniCesumar apaixonado por tecno
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
-    text-align: left 
-    alt="mongodb"
-    title="mongodb"
-    width="40px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
-/>
-<img 
     text-align: left
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="40px"
-    style="padding-right:10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    text-align: left
-    alt="AWS"
-    title="AWS"
-    width="40px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    text-align: left 
-    alt="Docker"
-    title="Docker"
-    width="40px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    text-align: left
-    alt="Kubernetes"
-    title="Kubernetes"
-    width="40px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
-/>
-<img 
-    text-align: left
-    alt="Kubernetes"
-    title="Kubernetes"
+    alt="Git"
+    title="Git"
     width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
